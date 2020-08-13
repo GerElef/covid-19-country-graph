@@ -1,6 +1,6 @@
 from sys import argv
 from matplotlib import pyplot
-import csv 
+import csv
 import urllib.request
 import codecs
 
